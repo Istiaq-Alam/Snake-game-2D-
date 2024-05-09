@@ -1,14 +1,14 @@
 # Snake-game-2D-
-Snake Game 2D using Java <img align="right" height="200" src="https://github.com/Istiaq-Alam/Snake-game-2D-/assets/168295675/6c3f679a-63cb-4eb6-bc18-5a86e08ab132">
+Snake Game 2D using Java 
 
 
 
 ![Snake Game Demo](demo.gif)
 
-## Table of Contents
-- [Introduction](#introduction)
+## Table of Contents 
+- [Introduction](#introduction) 
 - [Features](#features)
-- [Demo](#demo)
+- [Demo](#demo) <img align="right" height="200" src="https://github.com/Istiaq-Alam/Snake-game-2D-/assets/168295675/6c3f679a-63cb-4eb6-bc18-5a86e08ab132">
 - [Installation](#installation)
 - [Usage](#usage)
 - [Controls](#controls)
