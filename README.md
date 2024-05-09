@@ -39,7 +39,7 @@ To run the Snake Game locally, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/snake-game.git
+git clone https://github.com/Istiaq-Alam/Snake-game-2D-.git
 ``` 
 
 2. Open the project in your preferred Java Integrated Development Environment (IDE).
@@ -66,7 +66,7 @@ Once the game is running, follow these instructions to play:
 4. Push your changes to the branch (git push origin feature/improvement).
 5. Create a new Pull Request.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](#MIT) License.
 
 ## Acknowledgements
 - This project was inspired by classic snake games and various online tutorials and resources on Java game development.
